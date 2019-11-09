@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 3, 2019, 5:10:04 PM
+    Author     : adria
+*/
+
+.infoF:link {
+  color: #27c2a5;
+}
+
+/* visited link */
+.infoF:visited {
+  color: #ff9999;
+}
+
+/* mouse over link */
+.infoF:hover {
+  color: #219882;
+}
+
+/* selected link */
+.infoF:active {
+  color: #25a890;
+}

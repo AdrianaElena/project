@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 20, 2019, 2:33:34 PM
+    Author     : adria
+*/
+
+.mainsect{
+    margin-left: 280px;
+    padding-left: 250px;
+}
+.mytable{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.mycard{
+    width: 100px;
+    padding: 20px;
+}
+
+.inner{
+    overflow: hidden;
+}
+
+.inner img{
+    transition: all 1.5s ;
+    transition-duration: 0.5s;
+}
+
+.inner:hover img{
+    transform: scale(1.5);
+}
+
+.mytable{
+    width: 100%;
+}
+
+.mycell{
+    padding: 20px;
+}

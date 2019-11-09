@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 24, 2019, 1:50:34 PM
+    Author     : adria
+*/
+
+
+
+.mycarousel{
+    margin: 120px 70px 20px 0px;
+}
+
+
+.info{
+    
+    margin-left: 150px;
+    margin-right: 90px;
+    margin-top: 75px;
+    padding: 15px 70px 5px 50px;
+    border-left: 10px solid #ff9999;
+    border-radius: 5px ;
+    border-bottom: 1px solid gainsboro;
+    border-top: 1px solid gainsboro;
+}
+
+
+
+
+

@@ -1,0 +1,100 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 19, 2019, 3:17:49 PM
+    Author     : adria
+*/
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background: url(/images/cinemapho/ticket.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+.main-section{
+    margin: 0 auto;
+    margin-top: 130px;
+    padding: 0;
+}
+
+.modal-content{
+    background-color: #3b4652;
+    opacity: .85;
+    padding: 0 16px;
+    box-shadow: 0px 0px 3px #848484; 
+}
+
+.user-icon{
+    margin-top: -40px;
+    font-size:80px;
+    color: #ff9999;
+    margin-bottom: 35px;
+    broder-radius: 5px;
+}
+
+.form-group{
+    margin-bottom: 25px;
+}
+
+.form-group input{
+    height: 52px;
+    border-radius: 7px;
+    border: 0;
+    font-size: 18px;
+    padding-left: 54px;
+}
+
+.form-group::before{
+    font-family: 'Font Awesome\ 5 Free';
+    content: "\f007";
+    position: absolute;
+    font-size: 22px;
+    color: #555e60;
+    left: 28px;
+    padding-top: 4px;
+    
+}
+
+.form-group:last-child::before{
+    content: "\f007";
+}
+
+button{
+    width: 50%;
+    margin: 5px 0 5px;
+}
+
+.btn{
+    background-color: #27c2a5;
+    color: #fff;
+    font-size: 19px;
+    padding: 7px 14px;
+    border-radius: 5px;
+    border-bottom: 4px solid #219882;
+}
+
+.btn:hover, .btn:focus{
+    background-color: #25a890!important;
+    border-bottom: 4px solid #25a890!important;
+    color: #fff;
+}
+
+.icon-log{
+    margin-right: 12px;
+}
+
+.register{
+    padding: 5px 0 25px;
+}
+
+.register a{
+    color: #c2fbfc;
+}
+
+
+
+
